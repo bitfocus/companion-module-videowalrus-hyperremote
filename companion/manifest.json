@@ -1,0 +1,25 @@
+{
+	"id": "videowalrus-hyperremote",
+	"name": "Video Walrus HyperRemote",
+	"shortname": "HyperRemote",
+	"description": "Control HyperRemote 4 multi-deck HyperDeck controller",
+	"version": "1.0.2",
+	"license": "MIT",
+	"repository": "git+https://github.com/videowalrus/companion-module-videowalrus-hyperremote.git",
+	"bugs": "https://github.com/videowalrus/companion-module-videowalrus-hyperremote/issues",
+	"maintainers": [
+		{
+			"name": "Video Walrus Ltd"
+		}
+	],
+	"legacyIds": [],
+	"runtime": {
+		"type": "node22",
+		"api": "nodejs-ipc",
+		"apiVersion": "0.0.0",
+		"entrypoint": "../src/main.js"
+	},
+	"manufacturer": "Video Walrus",
+	"products": ["HyperRemote"],
+	"keywords": ["hyperdeck", "blackmagic", "recording", "gang", "multi-deck"]
+}
