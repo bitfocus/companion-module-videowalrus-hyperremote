@@ -1,6 +1,6 @@
 # Video Walrus HyperRemote — Companion Module
 
-A [Bitfocus Companion](https://bitfocus.io/companion) module for the **Video Walrus HyperRemote 4** application, providing gang control of multiple Blackmagic HyperDeck recorders.
+A [Bitfocus Companion](https://bitfocus.io/companion) module for the **[Video Walrus HyperRemote 4](https://videowalrus.com/projects/hyper-remote)** application, providing gang control of multiple Blackmagic HyperDeck recorders.
 
 The module connects to HyperRemote 4 over WebSocket and exposes its transport, arming, and per-deck controls as Companion actions, feedbacks, variables, and presets.
 
