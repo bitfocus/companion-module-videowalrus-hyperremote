@@ -3,12 +3,17 @@
 	"version": "1.0.2",
 	"main": "src/main.js",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/videowalrus/companion-module-videowalrus-hyperremote.git"
+	},
 	"scripts": {
 		"format": "prettier -w .",
 		"package": "companion-module-build"
 	},
 	"engines": {
-		"node": "^18.12 || ^22.8"
+		"node": "^22.20",
+		"yarn": "^4"
 	},
 	"dependencies": {
 		"@companion-module/base": "~1.14.1",
