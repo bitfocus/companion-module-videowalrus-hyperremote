@@ -3,10 +3,10 @@
 	"name": "Video Walrus HyperRemote",
 	"shortname": "HyperRemote",
 	"description": "Control HyperRemote 4 multi-deck HyperDeck controller",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"license": "MIT",
-	"repository": "git+https://github.com/videowalrus/companion-module-videowalrus-hyperremote.git",
-	"bugs": "https://github.com/videowalrus/companion-module-videowalrus-hyperremote/issues",
+	"repository": "https://github.com/bitfocus/companion-module-videowalrus-hyperremote",
+	"bugs": "https://github.com/bitfocus/companion-module-videowalrus-hyperremote/issues",
 	"maintainers": [
 		{
 			"name": "Video Walrus Ltd"

@@ -1,11 +1,11 @@
 {
 	"name": "companion-module-videowalrus-hyperremote",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"main": "src/main.js",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/videowalrus/companion-module-videowalrus-hyperremote.git"
+		"url": "git+https://github.com/bitfocus/companion-module-videowalrus-hyperremote.git"
 	},
 	"scripts": {
 		"format": "prettier -w .",
